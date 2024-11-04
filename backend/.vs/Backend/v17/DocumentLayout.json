@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\authentication\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\authentication\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\authentication\\models\\signinresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\authentication\\models\\signinresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppDb/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\mysql.session.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\mysql.session.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\authentication\\models\\signinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\authentication\\models\\signinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\migrations\\20241104113834_removeunusedtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\migrations\\20241104113834_removeunusedtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\migrations\\storecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\data\\storecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\authentication\\repositories\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\authentication\\repositories\\iauthenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\authentication\\repositories\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\authentication\\repositories\\authenticationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppDb/True/SqlTable/dbo.User.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\authentication\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\authentication\\services\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Raluca.Sodinca\\Progress\\Developer Studio 12.8\\workspace\\ABLEssentials\\eTrans1.lst||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\authentication\\services\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\authentication\\services\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\migrations\\20241104114201_updateschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\migrations\\20241104114201_updateschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\migrations\\20241104113528_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\migrations\\20241104113528_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|c:\\users\\raluca.sodinca\\disertatie\\backend\\api\\mysql.session.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{CD0E4534-25C2-403A-AC15-EC5EBFF88501}|API\\API.csproj|solutionrelative:api\\mysql.session.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Users [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppDb/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-04T12:20:02.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "API\\Authentication\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "API\\Authentication\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:45:56.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T18:25:52.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\appsettings.json",
+              "RelativeToolTip": "API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T12:21:14.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignInResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Models\\SignInResponse.cs",
+              "RelativeDocumentMoniker": "API\\Authentication\\Models\\SignInResponse.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Models\\SignInResponse.cs",
+              "RelativeToolTip": "API\\Authentication\\Models\\SignInResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:32:18.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "mySQL.session.sql ",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\mySQL.session.sql",
+              "RelativeDocumentMoniker": "API\\mySQL.session.sql",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\mySQL.session.sql",
+              "RelativeToolTip": "API\\mySQL.session.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-04T12:21:13.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignInRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Models\\SignInRequest.cs",
+              "RelativeDocumentMoniker": "API\\Authentication\\Models\\SignInRequest.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Models\\SignInRequest.cs",
+              "RelativeToolTip": "API\\Authentication\\Models\\SignInRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:32:15.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T17:52:03.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20241104113834_RemoveUnusedTables.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Migrations\\20241104113834_RemoveUnusedTables.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20241104113834_RemoveUnusedTables.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Migrations\\20241104113834_RemoveUnusedTables.cs",
+              "RelativeToolTip": "API\\Migrations\\20241104113834_RemoveUnusedTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:38:34.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241104114201_UpdateSchema.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Migrations\\20241104114201_UpdateSchema.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20241104114201_UpdateSchema.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Migrations\\20241104114201_UpdateSchema.cs",
+              "RelativeToolTip": "API\\Migrations\\20241104114201_UpdateSchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:42:02.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoreContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Migrations\\StoreContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\StoreContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Migrations\\StoreContextModelSnapshot.cs",
+              "RelativeToolTip": "API\\Migrations\\StoreContextModelSnapshot.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:43:07.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Data\\StoreContext.cs",
+              "RelativeDocumentMoniker": "API\\Data\\StoreContext.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Data\\StoreContext.cs",
+              "RelativeToolTip": "API\\Data\\StoreContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:34:30.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Models\\User.cs",
+              "RelativeToolTip": "API\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T16:59:49.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241104113528_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Migrations\\20241104113528_InitialCreate.cs",
+              "RelativeDocumentMoniker": "API\\Migrations\\20241104113528_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Migrations\\20241104113528_InitialCreate.cs",
+              "RelativeToolTip": "API\\Migrations\\20241104113528_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T11:35:28.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Repositories\\IAuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "API\\Authentication\\Repositories\\IAuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Repositories\\IAuthenticationRepository.cs",
+              "RelativeToolTip": "API\\Authentication\\Repositories\\IAuthenticationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:24:43.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Repositories\\AuthenticationRepository.cs",
+              "RelativeDocumentMoniker": "API\\Authentication\\Repositories\\AuthenticationRepository.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Repositories\\AuthenticationRepository.cs",
+              "RelativeToolTip": "API\\Authentication\\Repositories\\AuthenticationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T10:46:05.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.User.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppDb/True/SqlTable/dbo.User.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/AppDb/True/SqlTable/dbo.User.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-04T10:26:27.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-04T10:22:25.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "API\\Authentication\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "API\\Authentication\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:21:25.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "eTrans1.lst",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Progress\\Developer Studio 12.8\\workspace\\ABLEssentials\\eTrans1.lst",
+              "RelativeDocumentMoniker": "..\\..\\Progress\\Developer Studio 12.8\\workspace\\ABLEssentials\\eTrans1.lst",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Progress\\Developer Studio 12.8\\workspace\\ABLEssentials\\eTrans1.lst",
+              "RelativeToolTip": "..\\..\\Progress\\Developer Studio 12.8\\workspace\\ABLEssentials\\eTrans1.lst",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-30T10:24:45.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Services\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "API\\Authentication\\Services\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\Authentication\\Services\\IAuthenticationService.cs",
+              "RelativeToolTip": "API\\Authentication\\Services\\IAuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T17:09:19.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Raluca.Sodinca\\Disertatie\\backend\\API\\appsettings.Development.json",
+              "RelativeToolTip": "API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T17:47:11.993Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
